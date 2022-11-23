@@ -1,11 +1,12 @@
 body {
-    background-color:whitesmoke;
+    background-color:rgb(177, 94, 94);
 }
 .sprawdzian {
     background-color: antiquewhite;
     border: 2px black;
     border-style: solid;
-    border-radius: 10px; 
+    border-radius: 10px;
+    margin-bottom: 15px;
 }
 .sprawdzian_tekst {
     margin-left: 3%; 
@@ -19,11 +20,14 @@ article{
     border: 2px black;
     border-style: solid;
     border-radius: 10px;
+    margin-bottom: 15px;
 }
 
 .obraz{
     margin-left: 25%;
 }
+
+
 
 
 
@@ -44,14 +48,14 @@ ul {
   a {
     display: block;
     padding: 8px;
-    background-color: lightblue;
+    background-color: lightcoral;
     color: black;
     border-radius: 15px;
     margin: 3px;
   }
   
   li a:hover {
-    background-color: lightblue;
+    background-color: lightcoral;
     color: white;
   }
   
