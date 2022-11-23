@@ -1,1 +1,1 @@
-co sie patrzysz tu
+witam serdecznie adrian to pies
