@@ -1,0 +1,14 @@
+body {
+    background-color: dimgrey;
+}
+.sprawdzian {
+    background-color: antiquewhite;
+    border-radius: 10px; 
+    margin-left: 5%;
+}
+.sprawdzian_tekst {
+    margin-left: 3%; 
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
