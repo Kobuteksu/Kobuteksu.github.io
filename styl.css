@@ -23,6 +23,13 @@ article{
     margin-bottom: 15px;
 }
 
+.tekstartykulu{
+    margin-left: 3%; 
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
 .obraz{
     margin-left: 25%;
 }
